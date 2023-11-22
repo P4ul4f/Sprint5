@@ -3,7 +3,7 @@
 function Footer() {
   return (
     <>
-    <footer className="mt-auto py-3" style={{ color: 'white', backgroundColor: 'rgb(74, 8, 8)', padding: '20px' }}>
+    <footer className="mt-auto py-3" style={{color: 'white', backgroundColor: 'rgb(74, 8, 8)', padding: '20px', bottom:'0', height:'100%', width:'100%', position:'relative'}}>
         <div className="container" style={{padding:'30px'}}>
           <div className="row">
             <div className="col-md-4 col-12">
